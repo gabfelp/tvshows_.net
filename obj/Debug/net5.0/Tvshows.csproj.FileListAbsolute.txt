@@ -1,0 +1,16 @@
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\Tvshows.exe
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\Tvshows.deps.json
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\Tvshows.runtimeconfig.json
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\Tvshows.runtimeconfig.dev.json
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\Tvshows.dll
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\ref\Tvshows.dll
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\bin\Debug\net5.0\Tvshows.pdb
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.csprojAssemblyReference.cache
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.AssemblyInfoInputs.cache
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.AssemblyInfo.cs
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.csproj.CoreCompileInputs.cache
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.dll
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\ref\Tvshows.dll
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.pdb
+C:\Users\gabpa\OneDrive\Documentos\series_.net\Tvshows\obj\Debug\net5.0\Tvshows.genruntimeconfig.cache
